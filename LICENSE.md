@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Plugin | sentiment-analysis + event-driven-trading offers the most advanced Polymarket plugin, with sentiment-analysis and event-driven-trading. Ideal for
 
 
 
